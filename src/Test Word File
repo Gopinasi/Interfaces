@@ -1,0 +1,1 @@
+Hi, this is Computer Programming II Course from UC. This is a text file for the ShortLister Class which chooses a file using JFileChooser and outputs the words that are less have a length of less than 5 letters.
